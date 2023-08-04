@@ -1,0 +1,5 @@
+<resources>
+    <color name="cardBackgroundColor">#FFFFFF</color>
+    <color name="temperatureTextColor">#FFFFFF</color>
+    <color name="heartRateTextColor">#FFFFFF</color>
+</resources>
